@@ -4,8 +4,6 @@ learning
 | :--- | :---: | ---: |
 | 张三 | 25 | 北京 |
 | 李四 | 30 | 上海 |
-
-`console.log("nihao")`
 ```function hello(){
   console.log("hello");
 }```
